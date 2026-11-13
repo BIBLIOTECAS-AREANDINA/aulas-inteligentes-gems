@@ -656,3 +656,14 @@ RESTRICCIONES:
 ---
 
 *Evento: Aulas Inteligentes — Creación de Gems con Gemini · Areandina Pereira · Mayo 2026*
+
+
+## Centralización institucional — 13 de noviembre de 2026
+
+Repositorio transferido a [BIBLIOTECAS-AREANDINA](https://github.com/BIBLIOTECAS-AREANDINA), conservando su nombre y visibilidad pública. Las referencias Git anteriores se verificaron antes de actualizar esta documentación.
+
+Instrucciones de 8 Gems y taller Areandina; no acredita creación o acceso a esos Gems.
+
+Dirección institucional de Pages: https://bibliotecas-areandina.github.io/aulas-inteligentes-gems/ . La disponibilidad HTTP se registra en la bitácora de centralización; no equivale a una prueba funcional completa. Los enlaces antiguos de Pages y QR impresos requieren actualización.
+
+[Inventario y pendientes](https://github.com/BIBLIOTECAS-AREANDINA/BIBLIONOVA/blob/main/docs/CENTRALIZACION_2026-11-13.md). No se modificaron despliegues de Apps Script, n8n ni Koha de producción.
